@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<populations>
+
+
+
+
+    <population Name="BelongingsTrail">
+        <group Name="Items" Style="pickone">
+        <object Blueprint="Garbage" />
+        <group Name="Corpses" Style="pickone">
+            <table Weight="100" Name="DynamicObjectsTable:Corpses:Tier{zonetier}" />
+        </group>
+        <object Blueprint="Rubble" />
+        <object Blueprint="Rubble Grey" />
+        <object Blueprint="Flowers" />
+        <group Name="Rocks" Style="pickone">
+            <object Blueprint="SmallBoulder" />
+            <object Blueprint="SmallBoulder Grey" />
+        </group>
+        </group>
+    </population>
+</populations>

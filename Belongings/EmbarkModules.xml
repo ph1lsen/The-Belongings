@@ -1,0 +1,16 @@
+<embarkmodules>
+    <module Class="XRL.CharacterBuilds.Qud.QudPregenModule">
+        <pregens>
+            <pregen Name="Wizzard" Genotype="Mutated Human" Tile="wizzard.png" Foreground="y" Detail="m" Background="k">
+                <code>H4sIAAAAAAAACs1W22rjMBB9L/QfhNlHJySl7IZCHtLsvS2kdWgXSh9ke3C0lSWhyy7ekH/fkZMmvrSbdmlKAsHWnNHM8cwZofnhASFBRnP4BdowKYITEhx1e92j3qDbHwRhiceO8bTi0EeH3grLZeo4GDTf+jUh8+VjDU0LBX7Tj6vz7nhGNU0s6FMf0XQvXer/X0BIi24X5YaQjIyBPOZFZxzhBhWS62Xu4YZZSMaOW6dhKMBZTXlIJi7mLDmDYirvQQyF43zJsSSTUkuRxpodmt7Zl1L7iEFa9DZJMOaDvw974Sy1kJKvLqei5tWq5QO2WL4swv+uZeTiPS1ljdn2Sq7cfdCRksZyeKsSln3D2GYPi9jgtr2MucKIvarFAIekjLEZ2uVvXl2QlYBXRZ5qpjh0fkomUNPVFKXrNdWMCoue/jub6Fi6EutX7Yvwubk/S50AuaHVAr5F3jMm0rrsdp9zUmh5zwQYZl4l8WZx9+T49F91fEbWahY7C/s4P01y2wdo4hVvJk4nM2pQ+Sf19gWR1SAyO0PgQ60lwShjnNmiDUyly2bYYj+Agzr0DaeLc5aBSKCN3jDOlfwNug19yiQa329sVckFVEUKSnV0jo/rwBXklAkmsuY5EePnjvzpUd+xw4N37IyVOfsDa3wPFfQUye1KEnjNas9uoOCRiQ5QAWnZ55a7lgInPXp01y6bM5PSQGSptiiWc5mUR9Y+NugfRJ9x7Wjs88m+S6Xoy24f/nF3eLD4C8hYzVphCwAA</code>
+                <description>
+                    A lone wanderer lost in Space and Time. A bit anxious, but overall a nice person.
+                    &amp;c&#249;&amp;y 'Sorcerer'
+                    &amp;c&#249;&amp;y Glass Cannon
+                    &amp;c&#249;&amp;y Can run pretty fast
+                    &amp;c&#249;&amp;y Has a walking Chest as best friend
+                </description>
+            </pregen>
+        </pregens>
+    </module>
+</embarkmodules>
