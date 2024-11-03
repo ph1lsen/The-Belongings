@@ -17,15 +17,13 @@
     <population Name="BelongingsTrail">
         <group Name="Items" Style="pickone">
         <object Blueprint="Garbage" />
+        <object Blueprint="RandomBook" />
         <group Name="Corpses" Style="pickone">
-            <table Weight="100" Name="DynamicObjectsTable:Corpses:Tier{zonetier}" />
+            <table Weight="50" Name="DynamicObjectsTable:Corpses:Tier{zonetier}" />
         </group>
-        <object Blueprint="Rubble" />
         <group Name="BelongingArtifacts" Style="pickone">
             <table Name="BelongingArtifacts" />
         </group>
-        <object Blueprint="Rubble Grey" />
-        <object Blueprint="Flowers" />
         <group Name="Rocks" Style="pickone">
             <object Blueprint="SmallBoulder" />
             <object Blueprint="SmallBoulder Grey" />

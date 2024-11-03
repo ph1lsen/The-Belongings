@@ -5,7 +5,7 @@
         <part Name="Description" Short="A sentient Chest made out of intelligent Nachash Tree Wood. Hundreds of little legs bristle beneath the Chest. When it opens the lid, a long row of sharp teeth appear." />
         <part Name="Pettable" />
         <part Name="Fetches" SniffChance="5" SniffMessageChance="5" />
-        <part Name="LeavesTrail" TrailChance="10" TrailBlueprint="@BelongingsTrail" OnEnter="false" />
+        <part Name="LeavesTrail" TrailChance="2" TrailBlueprint="@BelongingsTrail" OnEnter="false" />
         <part Name="ConversationScript" ConversationID="BelongingsConvo" />
         <part Name="Brain" Hostile="False" Wanders="True" Passive="True" />
 
