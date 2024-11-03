@@ -30,7 +30,7 @@
         <tag Name="Pet" />
         <tag Name="PetResponse" Value="wags with their non-existent tail, pants with their open lid, are revealing a long row of teeth." />
         <tag Name="StartingPet" />
-        <tag Name="Gender" Value="non" />
+        <tag Name="Gender" Value="neuter" />
         <tag Name="ExcludeFromDynamicEncounters" />
         <tag Name="NamingTag" Value="The Belongings" />
     </object>
