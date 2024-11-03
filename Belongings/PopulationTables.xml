@@ -17,7 +17,9 @@
     <population Name="BelongingsTrail">
         <group Name="Items" Style="pickone">
         <object Blueprint="Garbage" />
-        <object Blueprint="RandomBook" />
+        <group Name="BooksAndRandomBooks" Style="pickone">
+            <table Name="BooksAndRandomBooks" />
+        </group>
         <group Name="Corpses" Style="pickone">
             <table Weight="50" Name="DynamicObjectsTable:Corpses:Tier{zonetier}" />
         </group>
