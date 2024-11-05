@@ -8,6 +8,7 @@
         <part Name="LeavesTrail" TrailChance="1" TrailBlueprint="@BelongingsTrail" OnEnter="false" />
         <part Name="ConversationScript" ConversationID="BelongingsConvo" />
         <part Name="Brain" Hostile="False" Wanders="True" MaxWanderRadius="6" Passive="False" />
+        <part Name="Physics" Organic="false" Weight="350" />
 
         <stat Name="Hitpoints" Value="250" />
         <stat Name="Level" Value="3" />
